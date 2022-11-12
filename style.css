@@ -1,0 +1,17 @@
+#main {
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: inherit;
+}
+.content {
+    color: red;
+    font-style: initial;
+}
+#special {
+    color: green;
+    font-style: unset;
+}
+.particular {
+    color: brown;
+    font-style: inherit;
+}
